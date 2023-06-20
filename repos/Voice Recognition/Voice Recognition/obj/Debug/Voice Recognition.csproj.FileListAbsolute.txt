@@ -1,0 +1,20 @@
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojAssemblyReference.cache
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.cache
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.CoreCompileInputs.cache
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\benkn\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojAssemblyReference.cache
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.cache
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.CoreCompileInputs.cache
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\benkn\C# voice recognition\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
